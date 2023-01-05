@@ -1,0 +1,18 @@
+section.website
+  .website-inner
+    h1
+    .content-inner
+      input[type=radio] * 5
+      .web-tab-btn
+        label * 5
+      .web-tabs
+        .web-tab
+          .tab-inner 
+            .web-photo
+              img
+            .tab-info
+              h3
+              p
+              ul
+              .result-buttons
+                a.btn * 2 
